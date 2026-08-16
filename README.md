@@ -2,13 +2,13 @@
 
 Systems Engineering student & Software Development Technologist based in Barranquilla, Colombia.
 
-I build web apps, automate things, and fix computers for fun (and profit).
+I build practical web applications, automate workflows, and provide IT support and device maintenance.
 
 ---
 
 ## About me
 
-- 🎓 Studying Systems Engineering @ Universidad Simón Bolívar (5th semester)
+- 🎓 Studying Systems Engineering  Universidad Simón Bolívar (6  th semester)
 - 🏅 Technologist in Software Analysis & Development — SENA (2024)
 - 💼 Former IT Intern @ Supergiros — led a POS terminal recovery project
 - 🔧 Independent tech: repair, recovery & resale of devices
@@ -35,6 +35,7 @@ I build web apps, automate things, and fix computers for fun (and profit).
 
 | Project | Description | Stack |
 |---|---|---|
+| [ContIA](https://github.com/jafethcohen/contia) | FinAI| Python |
 | [Lucy](https://github.com/jafethcohen/Lucy-sin-gpt) | Voice assistant for accessibility — helps people with disabilities use a computer through voice commands | Python |
 | [Juego Derivadas](https://github.com/jafethcohen/juegoderivadas) | Cat minigame where you earn points by solving partial derivatives — university project | JavaScript |
 | [Bio Link](https://jafethcohen.github.io/bio-link/) | Personal link-in-bio page | HTML/CSS |
@@ -44,6 +45,6 @@ I build web apps, automate things, and fix computers for fun (and profit).
 
 ## Let's connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jafethcohen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jafeth-cohen)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jafethdavidcohenhernandez@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://jafethcohen.github.io/portfoliov1/)
